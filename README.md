@@ -14,6 +14,12 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/JoaoPedro2701/JoaoPedro2701/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -30,10 +36,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPedro2701/JoaoPedro2701/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPedro2701/JoaoPedro2701/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoPedro2701/JoaoPedro2701/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2b945bc5-635e-4d92-8784-69bcc29d2a46" width="700px" />
+</div>
 
-###
