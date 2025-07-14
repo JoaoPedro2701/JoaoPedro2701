@@ -46,3 +46,18 @@
 <img src="https://github.com/user-attachments/assets/14b5a6a5-3ae2-4b08-b197-ae76c63d5b5e" width="700px" />
 </div>
 
+###
+
+<div align="left">
+  <a href="https://discord.com/channels/@elsydeon_2701" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/@joaopedro_ferreira20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
+  <a href="https://outlook.live.com/mail/0/?bO=1&login_hint=M%24Ejp4nOOY9mPH_ZWXZl7_wSgkn5WfmF-QmlKUn5ZaVJSaWZRoZG5g6JCem5iZo5ecnyuxZOFGZgA-chTo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
