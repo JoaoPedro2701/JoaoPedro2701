@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é João e eu sou do Brasil.</p>
+<p align="left">...</p>
 
 ###
 
