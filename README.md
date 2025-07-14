@@ -14,7 +14,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoaoPedro2701/JoaoPedro2701/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -37,6 +37,6 @@
 ###
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/2b945bc5-635e-4d92-8784-69bcc29d2a46" width="700px" />
+<img src="https://github.com/user-attachments/assets/14b5a6a5-3ae2-4b08-b197-ae76c63d5b5e" width="700px" />
 </div>
 
