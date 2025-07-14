@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">...</p>
+<p align="left">Aqui é onde eu transformo ideias em código, bugs em aprendizado e café em soluções (quase sempre 😅). Sinta-se à vontade para explorar meus repositórios e ver no que estou trabalhando!</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
